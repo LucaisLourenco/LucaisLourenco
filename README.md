@@ -30,8 +30,6 @@
 
 ###
 
-<br clear="both">
-
   ![Snake animation](https://github.com/lucaislourenco/lucaislourenco/blob/output/github-contribution-grid-snake.svg)
 
 ###
