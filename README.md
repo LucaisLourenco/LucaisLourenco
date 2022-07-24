@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/LucaisLourenco/LucaisLourenco/blob/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/lucaislourenco/lucaislourenco/blob/output/github-contribution-grid-snake.svg)
 
 ###
