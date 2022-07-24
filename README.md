@@ -20,6 +20,7 @@
 ###
 
 <div align="left">
+  <h2>Minhas redes sociais</h2>
   <a href="https://www.instagram.com/lucais.lucais/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
   </a>
