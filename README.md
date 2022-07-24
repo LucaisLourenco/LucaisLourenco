@@ -1,3 +1,4 @@
+<a href="https://github.com/lucaislourenco">
 <h2 align="left">Estudante de Análise e Desenvolvimento de Sistemas apaixonado por Desenvolvimento Web</h2>
 
 ###
@@ -30,6 +31,6 @@
 
 ###
 
-  ![Snake animation](https://github.com/lucaislourenco/lucaislourenco/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucaisLourenco/LucaisLourenco/blob/output/github-contribution-grid-snake.svg)
 
 ###
