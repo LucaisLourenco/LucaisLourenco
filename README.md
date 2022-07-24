@@ -1,4 +1,3 @@
-<a href="https://github.com/lucaislourenco">
 <h2 align="left">Estudante de Análise e Desenvolvimento de Sistemas apaixonado por Desenvolvimento Web</h2>
 
 ###
