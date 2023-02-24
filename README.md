@@ -1,4 +1,4 @@
-<h2 align="left">Estudante de Análise e Desenvolvimento de Sistemas apaixonado por Desenvolvimento Web</h2>
+<h2 align="left">Graduado em Análise e Desenvolvimento de Sistemas apaixonado por Desenvolvimento Web</h2>
 
 ###
 
