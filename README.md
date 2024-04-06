@@ -30,6 +30,6 @@
 
 ###
 
-  ![Snake animation](https://github.com/LucaisLourenco/LucaisLourenco/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/LucaisLourenco/LucaisLourenco/blob/output/github-contribution-grid-snake.svg) --> 
 
 ###
